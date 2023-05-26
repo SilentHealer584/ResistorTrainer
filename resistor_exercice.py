@@ -4,6 +4,7 @@ import random
 window = tk.Tk()
 window.geometry("375x375")
 window.title("RRT")
+window.iconbitmap("icon.ico")
 
 window.grid_columnconfigure(0, weight=1)
 
