@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 
 window = tk.Tk()
-window.geometry("375x375")
+window.geometry("375x400")
 window.title("RRT")
 window.iconbitmap("icon.ico")
 
