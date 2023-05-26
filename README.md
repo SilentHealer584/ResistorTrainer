@@ -6,11 +6,14 @@ WHen launchiing the program, you are prompted with a tkinter interface, on the i
 <img src="https://github.com/SilentHealer584/ResistorTrainer/blob/main/example/image.png" width="300" height="300">
 RRT 0.1 - 1/3 Wrong Answer
 
+
 <img src="https://github.com/SilentHealer584/ResistorTrainer/blob/main/example/image1.png" width="300" height="300">
 RRT 0.1 - Correct Answer
 
+
 <img src="https://github.com/SilentHealer584/ResistorTrainer/blob/main/example/image2.png" width="300" height="300">
 RRT 0.2 - Interface No Correct Answers Streak
+
 
 <img src="https://github.com/SilentHealer584/ResistorTrainer/blob/main/example/image3.png" width="300" height="300">
 RRT 0.2 - Interface 4 Correct AnswersStreak
